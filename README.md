@@ -1,2 +1,2 @@
 # JavaProjects
-Java Projects developed in Eclipse/IntelliJ
+Java codes developed in Eclipse/IntelliJ
